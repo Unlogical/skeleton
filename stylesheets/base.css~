@@ -69,34 +69,47 @@
   height: 100%;
   overflow: hidden;
   background-color: #eee;
+  padding-top: 20px;
 }
+
 
 .menu li {
   display: block;
   float: left;
   height: 20px;
-  width: 100px;
-  background-color: red;
-  padding-top: 40px;
-  margin-top: 30px;
+  padding: 40px 20px 0 20px;
+  margin: 30px 0 0 20px;
   text-align: center;
+  border-top: 3px solid #eee;
+}
+
+.menu a {
+  color: #000;
+  text-decoration: none;
+}
+
+.menu li:first-child {
+  border-top: 3px solid #000;
+}
+
+.menu li:hover {
+  border-top: 3px solid #000;
 }
 
 .logo {
   width:  300px;
   height: 100px;
-  float: right;
-  background-color: red;
-  background-image: url("images/1.jpg");
+
 }
 
 .one_image {
-
+  margin-top: 20px;
 }
 
 .gray_background {
   background-color: #aaa;
   height: 300px;  
+  margin-top: 300px;
 }
 
 /* #Typography
@@ -145,10 +158,10 @@
   color: #eee;
   margin: 5px 0 0 5px;
 }
-.twitter_link {
-  background-image: url("images/twitter.png");
-}
 
+.social_links>a:hover {
+  color: #aae;
+}
 
 /* #Lists
 ================================================== */
