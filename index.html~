@@ -5,41 +5,41 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
 
-	<!-- Basic Page Needs
+   <!-- Basic Page Needs
   ================================================== -->
-	<meta charset="utf-8">
-	<title>Your Page Title Here :)</title>
-	<meta name="description" content="">
-	<meta name="author" content="alexandra" >
+   <meta charset="utf-8">
+   <title>Your Page Title Here :)</title>
+   <meta name="description" content="">
+   <meta name="author" content="alexandra" >
 
-	<!-- Mobile Specific Metas
+   <!-- Mobile Specific Metas
   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<!-- CSS
+   <!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="stylesheets/base.css">
-	<link rel="stylesheet" href="stylesheets/skeleton.css">
-	<link rel="stylesheet" href="stylesheets/layout.css">
+   <link rel="stylesheet" href="stylesheets/base.css">
+   <link rel="stylesheet" href="stylesheets/skeleton.css">
+   <link rel="stylesheet" href="stylesheets/layout.css">
    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
 
 
-	<!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+   <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+   <![endif]-->
 
-	<!-- Favicons
-	================================================== -->
-	<link rel="shortcut icon" href="images/favicon.ico">
-	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+   <!-- Favicons
+   ================================================== -->
+   <link rel="shortcut icon" href="images/favicon.ico">
+   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+   <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+   <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
    <link rel="stylesheet" href="font-awesome-4.1.0/css/font-awesome.min.css">
 </head>
 <body>
-	<div class="container">
-	  <div class="header">
+   <div class="container">
+     <div class="header">
        <div class="social_links four colomns">
          <a href="#" title="linkedin"><i class="fa fa-linkedin"></i></i></a>      
          <a href="#" title="google+"><i class="fa fa-google-plus"></i></a>
@@ -47,65 +47,118 @@
          <a href="#" title="vkontakte"><i class="fa fa-vk"></i></a>
          <a href="#" title="facebook"><i class="fa fa-facebook"></i></a>
        </div>	  
-	  </div>	
-	  <div class="content">
-	    <div class="menu eleven columns">
+     </div>	
+     <div class="content">
+       <ul class="menu eleven columns">
          <li><a href="#">Home</a></li>	   
          <li><a href="#">About me</a></li>
          <li><a href="#">Books</a></li>	   
          <li><a href="#">Blog</a></li>
          <li><a href="#">Contacts</a></li>
-	    </div>
-	    <a href="#"><img src="images/1.jpg" alt="" class="logo five columns"></a>
-	    <img src="images/2.jpg" alt="" align="middle" class="sixteen columns one_image">
+       </ul>
+       <a href="#"><img src="images/1.jpg" alt="" class="logo five columns"></a>
+       <img src="images/2.jpg" alt="" align="middle" class="sixteen columns one_image">
        <div class="gray_background">
          <h1 class="sixteen columns">new books</h1> 
          <div class="four columns">
            <img src="images/3.jpg" height="150px" width="220px" alt="">
            <h2>ololo</h2> 
            <p class="center_text">
-             Характеристика остроумия у К. Fischcr'a, которая, видимо,
-             вполне устраивает автора, гласит: <остроумие есть игривое суждение>. Для пояснения этого выражения мы укажем на аналогию:
-             <подобно тому как эстетическая свобода заключается в игривом
-             созерцании вещей>.
+             Спор по серьезным и важным вопросам играет огромную роль в науке, в государственных и общеизвестных делах и 
+             вообще во всех сторонах нашей жизни. Где нет живого обмена мнений, неизбежным спутником которого является спор, там царит застой.
            </p> 
-           <a href="#" class="center_link">more</a>       
+           <a href="#" class="center_link">more <i class="fa fa-circle"></i></a>       
          </div>   
          <div class="four columns">
            <img src="images/3.jpg" height="150px"  width="220px" alt="">
            <h2>ololo</h2>  
             <p class="center_text">
-             Характеристика остроумия у К. Fischcr'a, которая, видимо,
-             вполне устраивает автора, гласит: <остроумие есть игривое суждение>. Для пояснения этого выражения мы укажем на аналогию:
-             <подобно тому как эстетическая свобода заключается в игривом
-             созерцании вещей>.
+             Спор по серьезным и важным вопросам играет огромную роль в науке, в государственных и общеизвестных делах и 
+             вообще во всех сторонах нашей жизни. Где нет живого обмена мнений, неизбежным спутником которого является спор, там царит застой.
            </p>     
-           <a href="#" class="center_link">more</a>    
+           <a href="#" class="center_link">more <i class="fa fa-circle"></i></a>    
          </div> 
          <div class="four columns">
            <img src="images/3.jpg" height="150px"  width="220px" alt="">
            <h2>ololo</h2>    
             <p class="center_text">
-             Характеристика остроумия у К. Fischcr'a, которая, видимо,
-             вполне устраивает автора, гласит: <остроумие есть игривое суждение>. Для пояснения этого выражения мы укажем на аналогию:
-             <подобно тому как эстетическая свобода заключается в игривом
-             созерцании вещей>.
+             Спор по серьезным и важным вопросам играет огромную роль в науке, в государственных и общеизвестных делах и 
+             вообще во всех сторонах нашей жизни. Где нет живого обмена мнений, неизбежным спутником которого является спор, там царит застой.
            </p>  
-           <a href="#" class="center_link">more</a>     
+           <a href="#" class="center_link">more <i class="fa fa-circle"></i></a>     
          </div> 
          <div class="four columns">
            <img src="images/3.jpg" height="150px"  width="220px" alt="">
            <h2>ololo</h2>   
             <p class="center_text">
-             Характеристика остроумия у К. Fischcr'a, которая, видимо,
-             вполне устраивает автора, гласит: <остроумие есть игривое суждение>. Для пояснения этого выражения мы укажем на аналогию:
-             <подобно тому как эстетическая свобода заключается в игривом
-             созерцании вещей>.
+             Спор по серьезным и важным вопросам играет огромную роль в науке, в государственных и общеизвестных делах и 
+             вообще во всех сторонах нашей жизни. Где нет живого обмена мнений, неизбежным спутником которого является спор, там царит застой.
            </p>    
            <a href="#" class="center_link">more <i class="fa fa-circle"></i></a>    
          </div>    
-       </div> 	  
-	  </div>
-	</div><!-- container -->
+       </div>
+       <div class="three columns">
+         <h3>publications</h3>
+         <ul class="vertical_list">
+           <li>Olololo</li> 
+           <li>Ololol</li>
+           <li>Olololo</li>
+           <li>Olololol</li>
+           <li>Olololo</li> 
+           <li>Ololol</li>
+           <li>Olololo</li>
+           <li>Ololololo</li> 
+           <li>Olo</li>
+           <li>Olol</li>          
+         </ul> 
+         <button>more</button>      
+       </div> 	
+       <div class="six columns">
+         <h3>last news</h3> 
+         <ul>
+           <li>
+             <img src="images/4.jpg" align="left" alt="" class="circul_image">
+             <span class="colored_text bold_small">Dadadada dada</span>
+             <p>Кейс посмотрел в пустую чашку на черное колечко кофейной гущи. </p>
+             <a href="#" class="center_link bold_small">read more <i class="fa fa-circle"></i></a>
+           </li>
+           <li>
+             <img src="images/4.jpg" align="left" alt="" class="circul_image">
+             <span class="colored_text bold_small"">Dadadada dada</span>
+             <p>Кейс посмотрел в пустую чашку на черное колечко кофейной гущи. </p>
+             <a href="#" class="center_link bold_small">read more <i class="fa fa-circle"></i></a>
+           </li>
+           <li>
+             <img src="images/4.jpg" align="left" alt="" class="circul_image">
+             <span class="colored_text bold_small"">Dadadada dada</span>
+             <p>Кейс посмотрел в пустую чашку на черное колечко кофейной гущи. </p>
+             <a href="#" class="center_link bold_small">read more <i class="fa fa-circle"></i></a>
+           </li>
+         </ul>      
+       </div> 
+       <div class="seven columns">         
+           <img src="images/5.jpg" alt="" width="200px" height="150px"> 
+           <h3>about me</h3>
+           <p>
+             Он поднял правую руку и осторожно подвигал ею из стороны в сторону. В воздухе повис неяркий, быстро затуханий след.
+             Волосы на руках его и затылке встали дыбом.
+           </p>   
+           <button>more</button> 
+       </div>
+       <div class="sixteen columns top_bordered">
+         <ul class="bottom_list">
+           <li><a href="#">Home</a></li>	   
+           <li><a href="#">About me</a></li>
+           <li><a href="#">Books</a></li>	   
+           <li><a href="#">Blog</a></li>
+           <li><a href="#">Contacts</a></li>      
+         </ul>  
+       </div> 
+     </div>
+     <div class="bottom">
+       <p class="colored_text bold_small center_text ">uschshuschsh@vio.com</p>	
+       <p class="light_text center_text ">Ahrekfjd Fkjfh © 2014 <i class="fa fa-circle"></i> Pjdjdj Putut</p>  
+     </div>
+   </div><!-- container -->
 </body>
 </html>
