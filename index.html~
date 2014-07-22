@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>Your Page Title Here :)</title>
+	<meta name="description" content="">
+	<meta name="author" content="alexandra" >
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="stylesheets/base.css">
+	<link rel="stylesheet" href="stylesheets/skeleton.css">
+	<link rel="stylesheet" href="stylesheets/layout.css">
+   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+   <link rel="stylesheet" href="font-awesome-4.1.0/css/font-awesome.min.css">
+</head>
+<body>
+	<div class="container">
+	  <div class="header">
+       <div class="social_links four colomns">
+         <a href="#" title="linkedin"><i class="fa fa-linkedin"></i></i></a>      
+         <a href="#" title="google+"><i class="fa fa-google-plus"></i></a>
+         <a href="#" title="twitter"><i class="fa fa-twitter"></i></a>
+         <a href="#" title="vkontakte"><i class="fa fa-vk"></i></a>
+         <a href="#" title="facebook"><i class="fa fa-facebook"></i></a>
+       </div>	  
+	  </div>	
+	  <div class="content">
+	    <div class="menu">
+         <li><a href="#">ololo</a></li>	   
+         <li><a href="#">ololo</a></li>
+	    </div>
+	    <div class="logo"><a href="#"></a></div>
+	    <img src="images/2.jpg" alt="" class="fourteen columns one_image">
+       <div class="gray_background"></div>	  
+	  </div>
+	</div><!-- container -->
+</body>
+</html>
