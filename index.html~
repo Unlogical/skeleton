@@ -57,8 +57,54 @@
          <li><a href="#">Contacts</a></li>
 	    </div>
 	    <a href="#"><img src="images/1.jpg" alt="" class="logo five columns"></a>
-	    <img src="images/2.jpg" alt="" class="fourteen columns one_image">
-       <div class="gray_background"></div>	  
+	    <img src="images/2.jpg" alt="" align="middle" class="sixteen columns one_image">
+       <div class="gray_background">
+         <h1 class="sixteen columns">new books</h1> 
+         <div class="four columns">
+           <img src="images/3.jpg" height="150px" width="220px" alt="">
+           <h2>ololo</h2> 
+           <p class="center_text">
+             Характеристика остроумия у К. Fischcr'a, которая, видимо,
+             вполне устраивает автора, гласит: <остроумие есть игривое суждение>. Для пояснения этого выражения мы укажем на аналогию:
+             <подобно тому как эстетическая свобода заключается в игривом
+             созерцании вещей>.
+           </p> 
+           <a href="#" class="center_link">more</a>       
+         </div>   
+         <div class="four columns">
+           <img src="images/3.jpg" height="150px"  width="220px" alt="">
+           <h2>ololo</h2>  
+            <p class="center_text">
+             Характеристика остроумия у К. Fischcr'a, которая, видимо,
+             вполне устраивает автора, гласит: <остроумие есть игривое суждение>. Для пояснения этого выражения мы укажем на аналогию:
+             <подобно тому как эстетическая свобода заключается в игривом
+             созерцании вещей>.
+           </p>     
+           <a href="#" class="center_link">more</a>    
+         </div> 
+         <div class="four columns">
+           <img src="images/3.jpg" height="150px"  width="220px" alt="">
+           <h2>ololo</h2>    
+            <p class="center_text">
+             Характеристика остроумия у К. Fischcr'a, которая, видимо,
+             вполне устраивает автора, гласит: <остроумие есть игривое суждение>. Для пояснения этого выражения мы укажем на аналогию:
+             <подобно тому как эстетическая свобода заключается в игривом
+             созерцании вещей>.
+           </p>  
+           <a href="#" class="center_link">more</a>     
+         </div> 
+         <div class="four columns">
+           <img src="images/3.jpg" height="150px"  width="220px" alt="">
+           <h2>ololo</h2>   
+            <p class="center_text">
+             Характеристика остроумия у К. Fischcr'a, которая, видимо,
+             вполне устраивает автора, гласит: <остроумие есть игривое суждение>. Для пояснения этого выражения мы укажем на аналогию:
+             <подобно тому как эстетическая свобода заключается в игривом
+             созерцании вещей>.
+           </p>    
+           <a href="#" class="center_link">more <i class="fa fa-circle"></i></a>    
+         </div>    
+       </div> 	  
 	  </div>
 	</div><!-- container -->
 </body>
