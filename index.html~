@@ -105,16 +105,16 @@
        <div class="three columns">
          <h3>publications</h3>
          <ul class="vertical_list">
-           <li>Olololo</li> 
-           <li>Ololol</li>
-           <li>Olololo</li>
-           <li>Olololol</li>
-           <li>Olololo</li> 
-           <li>Ololol</li>
-           <li>Olololo</li>
-           <li>Ololololo</li> 
-           <li>Olo</li>
-           <li>Olol</li>          
+           <li>Olololo Ohdfjf</li> 
+           <li>Ololol Fhdeh</li>
+           <li>Olololo Van Shruiter</li>
+           <li>Olololol Geydh</li>
+           <li>Olololo Sakdc</li> 
+           <li>Ololol Rjdjd</li>
+           <li>Olololo Hldny</li>
+           <li>Ololololo R Bdid</li> 
+           <li>Olo Colin Farrel</li>
+           <li>Olol Grisha</li>          
          </ul> 
          <button class="gray_button">more</button>      
        </div> 	
@@ -143,8 +143,8 @@
          <a class="center_link">more news <i class="fa fa-circle"></i></a>     
        </div> 
        <div class="seven columns bordered">  
-          <p class="centering">       
-           <img src="images/5.jpg" alt="" width="340px" height="150px">
+          <p class="centering six columns">       
+           <img src="images/2.jpg" alt="" class="middle_img six columns">
          </p> 
          <h3>about me</h3>
          <p>

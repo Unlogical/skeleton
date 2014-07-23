@@ -84,7 +84,7 @@
   border: 1px solid #000;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
-  padding: 30px 30px 20px 30px;
+  padding: 30px 0px 30px 10px;
 }
 
 .top_bordered {
@@ -126,6 +126,10 @@
     border-bottom: 1px solid #000;
     text-align: center;
     padding: 10px 0 10px 0;
+  }
+  
+  h3 {
+    margin-bottom: 20px;  
   }
   
   .bordered>* {
@@ -172,7 +176,8 @@
    }
 
   .centering {
-    text-align: center;  
+  	 display: block;
+    text-align: center; 
   }
   
   .bottom p {
@@ -268,7 +273,6 @@
   display: block;
   width: 325px;
   margin:0 auto;
-
 }
 
 .bottom_list li {
@@ -309,6 +313,10 @@
   font-weight: 600;
 }
 
+.bottomborder_list, .vertical_list {
+  padding-top: 20px;
+}
+
 /* #Images
 ================================================== */
 
@@ -333,6 +341,10 @@
   height: 400px;
   position: relative;
   z-index: 3;
+}
+
+.middle_img {
+  float: left;
 }
 
 
