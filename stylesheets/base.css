@@ -208,6 +208,10 @@
 /* #Links
 ================================================== */
 
+a {
+  cursor: pointer;
+}
+
 .social_links>a {
   display: block;
   float: left;
@@ -250,6 +254,13 @@
   text-decoration: none;
   color: #000;
 }
+
+.active_link,
+.blue_link:hover,
+.active_link:hover{
+  color: #56a3ee;
+}
+
 
 /* #Lists
 ================================================== */
