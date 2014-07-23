@@ -150,6 +150,34 @@
     font-weight: 600;
   } 
   
+  .big_text, .name, .on_image_button{
+    display: block;
+    position: relative;
+    top: -150px;
+    right: 50px;
+    margin-bottom: 20px;
+    z-index: 4;  
+  }
+  
+  .big_text, .name {
+    text-align: right; 
+    font-weight: 600;
+    color: #efefff; 
+  }
+  
+   .big_text {
+     font-size: 48px;   
+   }
+   
+   .name {
+     font-family: 'Mr Dafoe',cursive;  
+   }
+  
+  .on_image_button {
+    text-align: center;
+    float: right; 
+  }
+  
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
@@ -285,7 +313,7 @@
 
 .one_image {
   margin-top: 20px;
-  height: 300px;
+  height: 400px;
   position: relative;
   z-index: 3;
 }

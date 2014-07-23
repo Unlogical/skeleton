@@ -57,7 +57,12 @@
          <li><a href="#">Contacts</a></li>
        </ul>
        <a href="#"><img src="images/1.jpg" alt="" class="logo five columns"></a>
-       <img src="images/2.jpg" alt="" align="middle" class="sixteen columns one_image">
+       <div> 
+         <img src="images/2.jpg" alt="" align="middle" class="sixteen columns one_image">
+         <p class="big_text">Taturiel</p>
+         <p class="name">Martin Stencil</p>
+         <button class="on_image_button">more info</button>
+       </div>
        <div class="gray_background">
          <h1 class="sixteen columns">new books</h1> 
          <div class="four columns">
@@ -136,7 +141,7 @@
            </li>
          </ul>      
        </div> 
-       <div class="seven columns">         
+       <div class="seven columns bordered">         
            <img src="images/5.jpg" alt="" width="200px" height="150px"> 
            <h3>about me</h3>
            <p>
