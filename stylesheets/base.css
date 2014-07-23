@@ -89,7 +89,7 @@
 
 .top_bordered {
   border-top: 1px solid #000;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .bottom {
@@ -221,15 +221,18 @@
   text-decoration: none;
 }
 
-.center_link {
-	display: block;
+.center_link, .right_link {
+  display: block;
   text-decoration: none;
   color: #000;
+}
+
+.center_link {
   text-align: center; 
   margin: 10px 0;
 }
 
-.center_link>i, p i {
+.center_link>i, p i, .right_link i {
   font-size: 8px;
   color: #67b4ff;
   vertical-align: middle;
@@ -290,6 +293,16 @@
   border-top: 3px solid #000;
 }
 
+.bottomborder_list li {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #aaa;
+}
+
+.bottomborder_list li:last-child {
+  border-bottom: 0px;
+  padding-bottom: 10px;
+}
+
 .vertical_list li {
   font-weight: 600;
 }
@@ -303,9 +316,9 @@
 	
 	
 .circul_image {
-  width: 50px;
-  height: 50px;
-  border-radius: 25px;
+  width: 90px;
+  height: 90px;
+  border-radius: 45px;
 }
 
 .logo {
