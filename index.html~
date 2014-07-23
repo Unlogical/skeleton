@@ -116,7 +116,7 @@
            <li>Olo</li>
            <li>Olol</li>          
          </ul> 
-         <button>more</button>      
+         <button class="gray_button">more</button>      
        </div> 	
        <div class="six columns">
          <h3>last news</h3> 
@@ -140,7 +140,7 @@
              <a href="#" class="right_link bold_small">read more <i class="fa fa-circle"></i></a>
            </li>
          </ul> 
-         <p>more news <i class="fa fa-circle"></i></p>     
+         <a class="center_link">more news <i class="fa fa-circle"></i></a>     
        </div> 
        <div class="seven columns bordered">  
           <p class="centering">       
@@ -151,7 +151,7 @@
            Он поднял правую руку и осторожно подвигал ею из стороны в сторону. В воздухе повис неяркий, быстро затуханий след.
            Волосы на руках его и затылке встали дыбом.
          </p>   
-         <button>more</button> 
+         <button class="blue_button">more</button> 
        </div>
        <div class="sixteen columns top_bordered">
          <ul class="bottom_list">

@@ -94,7 +94,6 @@
 
 .bottom {
   width: 100%;
-  height: 64px;
   background-color: #555;
 }
 
@@ -171,14 +170,17 @@
    .name {
      font-family: 'Mr Dafoe',cursive;  
    }
-  
-  .on_image_button {
-    text-align: center;
-    float: right; 
-  }
-  
+
   .centering {
     text-align: center;  
+  }
+  
+  .bottom p {
+    padding-top: 20px;  
+  }
+  
+  .bottom p:last-child {
+    padding-bottom: 20px;  
   }
   
 	p img { margin: 0; }
@@ -264,15 +266,14 @@
 
 .bottom_list {
   display: block;
-  background-color: red;
   width: 325px;
-  margin:20px auto;
+  margin:0 auto;
 }
 
 .bottom_list li {
   display: block;
   float: left;
-  margin-right: 20px;
+  margin: 30px 20px 30px 0;
 }
 
 .menu li {
@@ -336,8 +337,45 @@
 
 /* #Buttons
 ================================================== */
+button {
+  height: 30px;
+  border: 3px solid;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  border-radius: 5px;
+  text-align: center;
+  padding: 3px 10px;
+  color: #efefff;
+  font-size: 14px;
+}
 
+.blue_button {
+  background-color: #67b4ff;
+  border-color: #56a3ee;
+}
 
+.blue_button:hover, .gray_button:hover {
+  background-color: #888; 
+  border-color: #777;   
+}
+
+.gray_button {
+  background-color: #bbb;
+  border-color: #aaa;
+}
+  
+.on_image_button {
+  text-align: center;
+  float: right; 
+  background-color: #1371bc;
+  border-color: #0260ab;
+}
+
+.on_image_button:hover {
+  background-color: #67b4ff; 
+  border-color: #56a2ee; 
+}
+  
 
 /* #Forms
 ================================================== */
